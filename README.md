@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MissShraddha24
-- 👀 I’m interested in - Data Science.and Engineering.
-- 🌱 I’m currently learning - Basics of DS at AU.
+- 👀 I’m interested in - Data Science and Engineering.
+- 🌱 I’m currently learning - Itegrated BCA in DS at University of Allahabd.
 - 💞️ I’m looking to collaborate on  - DS repository..and so..
 - 📫 How to reach me  -  https://www.linkedin.com/in/shraddha-mishra-b121b1334
 - 😄 Pronouns: she/her..
